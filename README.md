@@ -92,7 +92,7 @@ Check the generated plots and CSV files for model evaluation metrics.
 
 You can find the project repository on GitLab using the following link:
 
-[Click here for GitLab Repository - Projects 2023-24/bxa321](https://github.com/BenjaminAkyen/robust-ids-against-ddos/blob/main/robust-ids-against-ddos.ipynb)
+[Click here for GitLab Repository - robust-ids-against-ddos](https://github.com/BenjaminAkyen/robust-ids-against-ddos/blob/main/robust-ids-against-ddos.ipynb)
 
 
 
